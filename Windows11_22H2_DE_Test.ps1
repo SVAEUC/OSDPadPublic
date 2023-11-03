@@ -5,7 +5,7 @@ if ((Get-MyComputerModel) -match 'Virtual') {
 
 $Params = @{
     OSVersion = "Windows 11"
-    OSBuild = "23H2"
+    OSBuild = "22H2"
     OSEdition = "Pro"
     OSLanguage = "de-DE"
     OSLicense = "Retail"
