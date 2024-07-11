@@ -4,5 +4,14 @@
 Windows10_22H2_DE.ps1
 Windows11_22H2_DE.ps1
 Windows11_22H2_EN.ps1
+
+##### Windows AutoPilot Device Preparation #####
+Hier wird nur Windows 11 23H2 / 22H2 unterstützt
+
+Windows11_22H2_DE.ps1
+Windows11_22H2_EN.ps1
+Windows11_23H2_DE.ps1
+Windows11_23H2_EN.ps1
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Die anderen Files sind noch in der TestPhase oder werden als Sub Script verwendet.
