@@ -3,6 +3,10 @@ if ((Get-MyComputerModel) -match 'Virtual') {
     Set-DisRes 1600
 }
 
+# PS Script´s müssen local auf dem Stick liegen
+set-location -path d:\APImport
+.\importAPHash.ps1
+
 $Params = @{
     OSVersion = "Windows 11"
     OSBuild = "24H2"
